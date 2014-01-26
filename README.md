@@ -3,6 +3,11 @@ PugBot for [TagPro](http://tagpro.koalabeast.com)
 
 Connects to TagPro mumble server and regurgitates group links (with extra info)
 
+### Screenshots
+
+![Screenshot](https://raw.github.com/jj56/tagpro-pugbot/screenshots/link.png)
+
+
 ### Licence
 
     This program is free software: you can redistribute it and/or modify

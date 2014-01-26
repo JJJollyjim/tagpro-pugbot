@@ -1,0 +1,7 @@
+{
+	"host": "localhost:64738",
+	"bots": {
+		"PugBot1": "Pugs->PUG 1",
+		"PugBot2": "Pugs->PUG 2"
+	}
+}

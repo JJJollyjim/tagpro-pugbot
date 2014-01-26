@@ -1,0 +1,19 @@
+{
+  "name": "MumBot",
+  "version": "1.0.0",
+  "description": "Connects to TagPro mumble server and regurgitates group links",
+  "main": "index.coffee",
+  "repository": "",
+  "author": "Jamie McClymont (TPPlane)",
+  "license": "GPLv3",
+  "dependencies": {
+    "protobuf": "~0.8.7",
+    "colors": "~0.6.2",
+    "moment": "~2.5.1",
+    "redis": "~0.10.0",
+    "async": "~0.2.10",
+    "lodash": "~2.4.1",
+    "socket.io-client": "git+https://github.com/jj56/socket.io-client.git#jj56ver",
+    "cookie": "~0.1.0"
+  }
+}

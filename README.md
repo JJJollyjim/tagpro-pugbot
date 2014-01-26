@@ -1,4 +1,4 @@
-PugBot for (TagPro)[http://tagpro.koalabeast.com]
+PugBot for [TagPro](http://tagpro.koalabeast.com)
 =============
 
 Connects to TagPro mumble server and regurgitates group links (with extra info)

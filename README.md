@@ -1,7 +1,7 @@
 PugBot for [TagPro](http://tagpro.koalabeast.com)
 =============
 
-Connects to TagPro mumble server and regurgitates group links (with extra info)
+Connects to TagPro mumble server and sends group links to players when they join a PUG group.
 
 ### Screenshots
 
